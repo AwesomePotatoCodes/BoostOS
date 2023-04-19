@@ -1,0 +1,12 @@
+[guide 0.1]
+
+Hello! This is the BoostOS guide file.
+Here, you can find important information about the BoostOS machine.
+
+Let's get started!
+
+BoostOS has a console-like interface, where you type in commands to run programs or activate features.
+
+There's many features to play around with that can be accessed from the command line.
+
+[work in progress...]
